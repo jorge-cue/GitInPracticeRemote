@@ -1,2 +1,4 @@
 = Git in practice
-// TODO: write the book
+== Chapter 1
+Git in practice makes Git In Perfect!
+// TODO: Is if funny?
