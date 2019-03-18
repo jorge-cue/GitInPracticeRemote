@@ -1,4 +1,5 @@
 = Git in practice
 == Chapter 1
-Git in practice makes Git In Perfect! (Improved) (rejected)
-// TODO: Is if funny?
+
+== Chapter 2
+This is chapter 2 initial paragraph.
