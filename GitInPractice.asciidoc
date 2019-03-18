@@ -1,4 +1,4 @@
 = Git in practice
 == Chapter 1
-Git in practice makes Git In Perfect!
+Git in practice makes Git In Perfect! (Improved)
 // TODO: Is if funny?
